@@ -33,6 +33,7 @@ Some information about the project:
 <br>I used HTML, plain CSS and vanilla Javascript in this project.
 
 6. Preview of the project in CodePen:
+<br>https://codepen.io/vugvr617/pen/PoEaNGg
 
 7. Features:
   <br>-Project is designed as responsive and mobile-friendly.

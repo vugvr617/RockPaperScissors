@@ -25,6 +25,7 @@ Some information about the project:
 
 2. Project description:
 <br>I have done this project inspired by the Odin Project, it is the project of foundation part of the curriculum.
+<br>You can find the simple version from odin-project repository.
 
 3. What does this application do?
 <br>It is simple "Rock, Paper, Scissors" game against computer.

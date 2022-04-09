@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="game.css">
+    <link href="http://fonts.cdnfonts.com/css/games" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div id="name-div">
+        <h1 id="gameName">ROCK PAPER SCISSORS</h1>
+    </div>
+    <div id="main">
+        <div id="but-div">
+            <button id="rock-but"><img src="https://imgyukle.com/f/2022/04/09/REC2JY.png"></button>
+            <button id="paper-but"><img src="https://imgyukle.com/f/2022/04/09/RECG1R.png"></button>
+            <button id="scissors-but"><img src="https://imgyukle.com/f/2022/04/09/RECWev.png"></button>
+        </div>
+        <div id="score-div">
+            <h1>You: <span id="yourScore">0</span></h1>
+            <h1>Computer: <span id="botScore">0</span></h1>
+        </div>
+        <p id="whoWin"></p>
+        <div id="ring-div">
+            <div id="icons">
+                <div id="player-icons">
+                    <img id="rock-icon" src="https://imgyukle.com/f/2022/04/09/REC7HH.png">
+                    <img id="paper-icon" src="https://imgyukle.com/f/2022/04/09/REC3kx.png">
+                    <img id="scissors-icon" src="https://imgyukle.com/f/2022/04/09/RECMuM.png">
+                </div>
+                <div id="cpu-icons">
+                    <img id="rock-icon2" src="https://imgyukle.com/f/2022/04/09/RESkxI.png">
+                    <img id="paper-icon2" src="https://imgyukle.com/f/2022/04/09/RECtwy.png">
+                    <img id="scissors-icon2" src="https://imgyukle.com/f/2022/04/09/RECdw1.png">
+                </div>
+            </div>
+            <img id="ring-img" src="https://imgyukle.com/f/2022/04/09/RECpPt.png">
+        </div>
+        <p id="whoWin"></p>
+        <div id="but-div">
+            <button id="history-but">Show History</button>
+            <button id="reset-but">Reset</button>
+        </div>
+        <p id="historyText"></p>
+        <script src="game.js"></script>
+    </div>
+    <div id="creator">
+        <p>Created by <span style="color: #FFD414; font-weight: 700;">Vugar Nasraddinli</span></p>
+        <div id="work-icon">
+            <a href="https://github.com/vugvr617" target="_blank"><i class="fa fa-github" style="font-size:36px"></i></a>
+            <a href="https://www.linkedin.com/in/vugar-nasraddinli/" target="_blank"><i class="fa fa-linkedin-square" style="font-size:36px"></i></a>
+        </div>
+    </div>
+</body>
+
+</html>

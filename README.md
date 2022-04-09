@@ -21,25 +21,29 @@ The second version of "Rock, Paper, Scissors" game, with JavaScript, HTML and CS
 Some information about the project:
 
 1. Project title: 
-Rock, Paper, Scissors
+<br>Rock, Paper, Scissors
 
 2. Project description:
-I have done this project inspired by the Odin Project, it is the project of foundation part of the curriculum.
+<br>I have done this project inspired by the Odin Project, it is the project of foundation part of the curriculum.
 
 3. What does this application do?
-It is simple "Rock, Paper, Scissors" game against computer.
+<br>It is simple "Rock, Paper, Scissors" game against computer.
 
 5. What was used in creation of project?
-I used HTML, plain CSS and vanilla Javascript in this project.
+<br>I used HTML, plain CSS and vanilla Javascript in this project.
 
 6. Preview of the project in CodePen:
 
 7. Features:
-  -Project is designed as responsive and mobile-friendly.
-  -The game can be played against computer by clicking on buttons.
-  -You can see the game history by clicking on "Show history" button.
-  -The game shows your choice and computer's choice by icons in "ring" and typing. 
-  -Score, history, and "ring" can be resetted by clicking on "Reset" button.
+  <br>-Project is designed as responsive and mobile-friendly.
+  <br>-The game can be played against computer by clicking on buttons.
+  <br>-You can see the game history by clicking on "Show history" button.
+  <br>-The game shows your choice and computer's choice by icons in "ring" and typing. 
+  <br>-Score, history, and "ring" can be resetted by clicking on "Reset" button.
    
 8. What I learned ?
-I improved myself on DOM usage, JavaScript features, and learned some usages of CSS.
+<br>I improved myself on DOM usage, JavaScript features, and learned some usages of CSS.
+
+9. Used resources in design:
+<br>https://www.vecteezy.com/vector-art/690865-rock-paper-scissors-line-icons
+<br>https://www.vhv.rs/viewpic/hmmRiwx_rock-paper-scissors-versus-hd-png-download/

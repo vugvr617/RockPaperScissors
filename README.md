@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vugar Nasraddinli</h1>
 <h3 align="center">A passionate web developer from Azerbaijan.</h3>
 
-- 🌱 I’m currently learning **Javascript, HTML and CSS**
+- 🌱 I’m currently learning **Javascript, HTML and CSS**, I have experience ine **C, C++ and Java**
 
 - 📫 How to reach me **vnasraddinli@gmail.com**
 

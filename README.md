@@ -23,29 +23,36 @@ Some information about the project:
 1. Project title: 
 <br>Rock, Paper, Scissors
 
-2. Project description:
+2. Starting date of the project: 
+<br>7 April, 2022
+
+3. Finished on:
+<br>8 April, 2022
+
+4. Project description:
 <br>I have done this project inspired by the Odin Project, it is the project of foundation part of the curriculum.
 <br>You can find the simple version from odin-project repository.
 
-3. What does this application do?
+5. What does this application do?
 <br>It is simple "Rock, Paper, Scissors" game against computer.
 
-5. What was used in creation of project?
+6. What was used in creation of project?
 <br>I used HTML, plain CSS and vanilla Javascript in this project.
 
-6. Preview of the project in CodePen:
+7. Preview of the project in CodePen:
 <br>https://codepen.io/vugvr617/pen/PoEaNGg
 
-7. Features:
+8. Features:
   <br>-Project is designed as responsive and mobile-friendly.
   <br>-The game can be played against computer by clicking on buttons.
   <br>-You can see the game history by clicking on "Show history" button.
   <br>-The game shows your choice and computer's choice by icons in "ring" and typing. 
   <br>-Score, history, and "ring" can be resetted by clicking on "Reset" button.
    
-8. What I learned ?
+9. What I learned ?
 <br>I improved myself on DOM usage, JavaScript features, and learned some usages of CSS.
 
-9. Used resources in design:
+10. Used resources in design:
 <br>https://www.vecteezy.com/vector-art/690865-rock-paper-scissors-line-icons
 <br>https://www.vhv.rs/viewpic/hmmRiwx_rock-paper-scissors-versus-hd-png-download/
+<br>https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors

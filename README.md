@@ -30,8 +30,8 @@ Some information about the project:
 <br>8 April, 2022
 
 4. Project description:
-<br>I have done this project inspired by the Odin Project, it is the project of foundation part of the curriculum.
-<br>You can find the simple version from odin-project repository.
+<br>It is the project of foundation part of the OdinProject curriculum.
+<br>You can find the simple version on odin-project repository.
 
 5. What does this application do?
 <br>It is simple "Rock, Paper, Scissors" game against computer.
